@@ -32,6 +32,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1UyDiH80ihcJNhs4iwtJLNFrei0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -126,7 +127,7 @@
       <workItem from="1576741207145" duration="20000" />
       <workItem from="1576752946313" duration="11259000" />
       <workItem from="1576837152974" duration="12082000" />
-      <workItem from="1576896247498" duration="727000" />
+      <workItem from="1576896247498" duration="1326000" />
     </task>
     <servers />
   </component>

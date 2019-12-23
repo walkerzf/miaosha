@@ -97,7 +97,6 @@ public class UserController extends BaseController {
 
     @RequestMapping("/get")
     @ResponseBody
-
     //定义通用的返回格式之后
     //public UserVo getUser(@RequestParam(name = "id") Integer id) {
     public CommonReturnType getUser(@RequestParam(name = "id") Integer id) throws BusinessException {
